@@ -1,4 +1,4 @@
-# terraform_eks
+# brainscale_eks
 Steps to run the code
 
 1. run git clone https://github.com/freeman9917/terraform_eks/terraform_eks.git
